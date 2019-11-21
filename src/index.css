@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    user-select: none;
+}
+
+body{
+    background: black;
+}
+
+header{
+    color: white;
+}
+
+header div{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 5px;
+
+}
+
+#Registro{
+    margin-top: 10px;
+    margin-right: 100px;
+
+}
+
+.botonInicio{
+    width: 150px;
+    height: 50px;
+}
+
+.linea{
+    height: 6px;
+    width: 100%
+}
+.lineaF{
+    height: 14px;
+}
+.banner{
+    width: 100%;
+    height: 700px;
+}
+.lineaGrande{
+    margin:0;
+    width: 100%
+}
